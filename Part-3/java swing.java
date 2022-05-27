@@ -11,10 +11,7 @@
         ResponseTextbox = JTextField();
 
         Importbutton.setText("Import");
-        
-
         Exportbutton.setText("Export");
-
         Clearbutton.setText("Clear");
 
         jSplitPane1.setOrientation(JSplitPane.VERTICAL_SPLIT);
