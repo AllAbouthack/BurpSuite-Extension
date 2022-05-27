@@ -9,10 +9,7 @@
         ResponseTextbox = new javax.swing.JTextField();
 
         Importbutton.setText("Import");
-        
-
         Exportbutton.setText("Export");
-
         Clearbutton.setText("Clear");
 
         jSplitPane1.setOrientation(javax.swing.JSplitPane.VERTICAL_SPLIT);
