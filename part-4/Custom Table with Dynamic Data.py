@@ -88,7 +88,7 @@ class BurpExtender(IBurpExtender, ITab, AbstractTableModel):
             return 0
 
     def getColumnCount(self):
-        return 5
+        return 3
 
     def getColumnName(self, columnIndex):
         
